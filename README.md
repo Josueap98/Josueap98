@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Josueap98
 - 👀 I’m interested in CyberSecurity, Networking & Data Bases
 - 🌱 I’m currently stuying Computer Science at Instituto Tecnologico de Ensenada TECNM
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me al20760255@ite.edu.mx
 
 <!---
