@@ -1,6 +1,6 @@
 # Hi there, I'm Josue Perez 👋 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josué-pérez-298908156)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josueperez.sec@gmail.com)
 
 **Systems Computer Engineer** passionate about **Cybersecurity, System Administration, and Workflow Automation**. I build efficient integrations, secure networks, and smart technical solutions.
@@ -37,7 +37,7 @@
 ### 📫 Let's Connect!
 
 * 📧 **Email:** [josueperez.sec@gmail.com](mailto:josueperez.sec@gmail.com)
-* 💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
+* 💼 **LinkedIn:** www.linkedin.com/in/josué-pérez-298908156
 
 <!---
 Josueap98/Josueap98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
