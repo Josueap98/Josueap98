@@ -22,7 +22,7 @@
 | :--- | :--- |
 | **Cybersecurity & Net** | Network Architecture, SysAdmin, Security Controls, Linux, Windows Server |
 | **Databases & Scripting**| SQL, MySQL, Google Apps Script, Custom API Integration |
-| **Automation & Tools** | Make.com, Webhooks, ManyChat, QR System Integration, Git/GitHub |
+| **Automation & Tools** | Make.com, Webhooks, ManyChat, QR System Integration, Google Workspace, Git/GitHub |
 
 ---
 
